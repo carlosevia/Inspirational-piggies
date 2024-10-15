@@ -12,4 +12,13 @@
             <ditaval href="../children.ditaval"/>
         </profile>
     </context>
+    <publication id="webhelp" transtype="webhelp-responsive"/>
+    <deliverable id="d-Piggies_adults-1729018514667" name="Piggies adults">
+        <context idref="CJNdqBUGtRiuhbp"/>
+        <output href="webhelp-output"/>
+        <publication idref="webhelp">
+            <param href="cf://templates/Magnesium" name="webhelp.publishing.template"/>
+            <param name="editlink.enable.edit.in.content.fusion.workspace" value="false"/>
+        </publication>
+    </deliverable>
 </project>
